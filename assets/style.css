@@ -1,0 +1,13 @@
+html {
+  background-color: rgb(33, 16, 63);
+}
+.main-container {
+  position: relative;
+}
+#fps {
+  position: absolute;
+  top: 0;
+  right: 5%;
+  color: white;
+  font-size: 14px;
+}
