@@ -1,5 +1,10 @@
 # Wave solver using TensorFlow JS
 
+# To do
+
+- make an implicit formulation
+- more colorful visu
+
 # Resources
 
 - [Tensor to image](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/ch04.html)
